@@ -1,0 +1,11 @@
+.cartListWrapper{
+    margin-top: 4rem;
+    display: none;
+}
+.cartListWrapper .row{
+    padding-top: 10px;
+    border-top: 1px solid #000;
+}
+.totalWrapper{
+    display: none;
+}
